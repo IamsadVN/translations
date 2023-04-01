@@ -54,13 +54,13 @@ $lang['widgets']['panel_loginbutton'] = "Đăng nhập vào bảng điều khi�
 $lang['widgets']['panel_closebutton'] = "Đóng";
 
 $lang['widgets']['changecpu_title'] = "Thay đổi CPU";
-$lang['widgets']['changecpu_newcpu'] = "CPU cores mới của máy chủ";
+$lang['widgets']['changecpu_newcpu'] = "Thay đổi lõi CPU của máy chủ";
 $lang['widgets']['changecpu_changebutton'] = "Thay đổi CPU";
 $lang['widgets']['changecpu_closebutton'] = "Đóng";
 
-$lang['widgets']['changedisk_title'] = "Thay đổi Disk";
+$lang['widgets']['changedisk_title'] = "Thay đổi Dung Lượng Đĩa";
 $lang['widgets']['changedisk_newcpu'] = "Dung lượng đĩa mới của máy chủ (MB)";
-$lang['widgets']['changedisk_changebutton'] = "Thay đổi Disk";
+$lang['widgets']['changedisk_changebutton'] = "Thay đổi Dung Lượng Đĩa";
 $lang['widgets']['changedisk_closebutton'] = "Đóng";
 
 // quick links
@@ -69,16 +69,16 @@ $lang['links']['quicklinks_description'] = "Điều hướng nhanh hơn với li
 $lang['links']['createserver'] = "Tạo máy chủ của bạn";
 $lang['links']['createserver_description'] = "Tạo máy chủ Minecraft của bạn";
 $lang['links']['coinshop'] = "Cửa hàng FalixCoins";
-$lang['links']['coinshop_description'] = "Mua tăng cường cho máy chủ Minecraft của bạn";
+$lang['links']['coinshop_description'] = "Mua để tăng cường cho máy chủ Minecraft của bạn";
 $lang['links']['coins'] = "Nhận FalixCoins miễn phí";
 $lang['links']['coins_description'] = "Tăng cường máy chủ với tiền ảo của chúng tôi";
 $lang['links']['discordsupport'] = "Hỗ trợ Discord";
-$lang['links']['discordsupport_description'] = "Hỏi câu hỏi của bạn trong cộng đồng của chúng tôi";
+$lang['links']['discordsupport_description'] = "Bạn có câu hỏi? Hãy vào cộng đồng của chúng tôi";
 
 // resources widget
 $lang['resources']['serversbalance'] = "Số lượng máy chủ";
 $lang['resources']['rambalance'] = "Dung lượng RAM";
-$lang['resources']['cpubalance'] = "CPU cores";
+$lang['resources']['cpubalance'] = "Số lõi CPU";
 $lang['resources']['diskbalance'] = "Dung lượng Disk";
 $lang['resources']['databasesbalance'] = "Số lượng Database";
 $lang['resources']['portsbalance'] = "Số lượng Port";
@@ -103,7 +103,7 @@ $lang['auth']['discord'] = "Discord";
 $lang['auth']['registerform_title'] = "Đăng ký";
 $lang['auth']['registerform_button'] = "Đăng ký";
 $lang['auth']['registerform_tosaccept'] = "Chấp nhận <a href='https://falixnodes.net/user-agreement'>điều khoản người dùng </a>và <a href='https://falixnodes.net/privacy-policy'>chính sách bảo mật</a>";
-$lang['auth']['registerform_marketingconsent'] = "Tick vào ô này nếu bạn muốn nhận những email tiếp thị với những offer mới nhất của chúng tôi.";
+$lang['auth']['registerform_marketingconsent'] = "Tick vào ô này nếu bạn muốn nhận những email tiếp thị với những cập nhật mới nhất của chúng tôi.";
 
 // index.php / main page
 $lang['manage_servers'] = "Quản lý máy chủ bạn với bảng điều khiển dễ sử dụng của chúng tôi.";
@@ -133,7 +133,7 @@ $lang['create']['serverram'] = "Dung lượng RAM";
 $lang['create']['servergame'] = "Chọn trò chơi";
 $lang['create']['allgames'] = "Tất cả trò chơi hỗ trợ";
 $lang['create']['selectgame'] = "Chọn trò chơi";
-$lang['create']['minecrafteula'] = "Chấp nhận <a href='https://account.mojang.com/documents/minecraft_eula/'>thỏa thuận cấp phép người dùng cuối (EULA) của Minecraft </a>";
+$lang['create']['minecrafteula'] = "Chấp nhận <a href='https://account.mojang.com/documents/minecraft_eula/'>thỏa thuận cấp phép (EULA) của Minecraft </a>";
 $lang['create']['createbutton'] = "Tạo";
 $lang['create']['adblock'] = "((( Nếu nút này không hoạt động sau 3-5 giây chờ đợi, vui lòng tắt trình chặn quảng cáo của bạn. )))";
 
